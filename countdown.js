@@ -1,5 +1,5 @@
 // 목표 날짜 설정 (예시: 2023년 1월 1일)
-const targetDate = new Date("2023-12-26T00:00:00Z");
+const targetDate = new Date("2023-12-26T12:00:00Z");
 
 function updateCountdown() {
   // 현재 한국 시간을 얻어오기
